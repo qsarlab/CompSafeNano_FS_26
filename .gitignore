@@ -12,3 +12,6 @@ runs/
 
 # Ignore vscode settings
 .vscode/
+
+# Ignore MacOS system files
+.DS_Store
