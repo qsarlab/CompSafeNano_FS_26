@@ -1,0 +1,14 @@
+# Ignore all folders starting with "results"
+results*/
+
+# Ignore all CSV files anywhere in the project
+*.csv
+
+# Ignore sam3 model file
+sam3.pt
+
+# Ignore everything inside the "runs" folder
+runs/
+
+# Ignore vscode settings
+.vscode/
